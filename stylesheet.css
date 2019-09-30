@@ -1,0 +1,94 @@
+#Title{
+	text-align: center;
+}
+
+#Main{
+	background-color: #88EDDC;
+	font-family: 'Open Sans', sans-serif;
+	margin-right: 150px;
+	margin-left: 150px;
+	border-style: solid;
+	border-width: 3px;
+
+}
+
+.center{
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+#Maintext{
+	text-align: center;
+}
+.row{
+  	display: flex;
+  	justify-content: center;
+  	text-align: center;
+}
+
+a:link{
+	color: blue;
+}
+
+a:visited{
+	color: purple;
+}
+
+a:hover{
+	font-weight: bold; 
+}
+
+#TicketPic{
+	float: right;
+	margin-right: 55px;
+}
+
+#Mainticket{
+	background-color: #BFFFB7;
+	border-style: solid;
+	border-width: 3px;
+	font-family: 'American Typewriter', sans-serif;
+}
+
+#CNEMap{
+	float: left;
+	margin-left: 55px;
+	margin-right: 25px;
+}
+
+#MainCNE{
+	margin-left: 200px;
+	margin-right: 200px;
+	border-style: solid;
+	border-width: 3px;
+	background-color: #FFFDB2;
+	font-family: 'Comic Sans MS', cursive;
+}
+
+#CNERow{
+	display: flex;
+  	justify-content: center;
+  	text-align: center;
+  	margin-bottom: 20px;
+}
+
+#CNEHow{
+	margin-left: 10px;
+}
+
+#ECMain{
+	margin-left: 200px;
+	margin-right: 200px;
+	border-style: solid;
+	border-width: 3px;
+	background-color: #E5BDFF;
+	font-family: 'Avantgarde', sans-serif
+
+}
+
+#ECText{
+	text-align: center;
+	margin-left: 10px;
+	margin-right: 10px;
+}
